@@ -32,10 +32,10 @@ Manager-driven and detail-oriented professional with a strong technical backgrou
 ---
 
 ### 📂 Featured Portfolio Projects
-*   **[databricks-pyspark-migration-pipeline](#)**: Legacy ETL migration framework optimized for financial and accounting compliance under strict data cloud standards.
+<!---*   **[databricks-pyspark-migration-pipeline](#)**: Legacy ETL migration framework optimized for financial and accounting compliance under strict data cloud standards.
 *   **[knowledge-graph-ai-integration](#)**: A 360-degree customer insight platform powered by Neo4j graph databases and LLM integrations for intelligent data processing.
 *   **[secure-enterprise-automation](#)**: Production-grade Java automation suite for secure API management, database consistency, and robust credential isolation.
-
+--->
 ---
 
 ### 📬 Connect With Me
