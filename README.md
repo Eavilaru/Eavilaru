@@ -39,7 +39,7 @@ Manager-driven and detail-oriented professional with a strong technical backgrou
 ---
 
 ### 📬 Connect With Me
-*   💼 **LinkedIn:** [linkedin.com/in/your-username](#) *(Reemplaza con tu enlace real)*
-*   ✉️ **Email:** [your.email@example.com](mailto:your.email@example.com) *(Reemplaza con tu correo real)*
+*   💼 **LinkedIn:** [www.linkedin.com/in/estebanavilaruiz](#) 
+*   ✉️ **Email:** [esteban.avilaruiz18@gmail.com](mailto:esteban.avilaruiz18@gmail.com)
 
 <p align="right"><i>"Transforming Business Challenges into Cloud & Data Solutions"</i></p>
